@@ -2,7 +2,7 @@ def mosbat(a):
     return abs(a)
 
 # نمونه تست
-print(mosbat( -5))  
+print(mosbat(-5))  
 print(mosbat(10)) 
 print(mosbat(0))   
 print(mosbat(-7))  
